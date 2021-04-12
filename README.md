@@ -6,7 +6,7 @@ Allows user to specify certain conditions (ex. number of people in simulation) a
 Quick demo showing our project:
 https://www.youtube.com/watch?v=ytIPoJzOMwk
 
-### contributors
+#### Contributors:
 Timothy Zheng, Eric Ji, Yang Xu
 
 ## Download
